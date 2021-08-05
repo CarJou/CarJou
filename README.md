@@ -1,6 +1,4 @@
 
-<img align="right" width="200" height="150"  src="https://media.giphy.com/media/mGbKvuoCNpcOWaTq9M/giphy.gif">
-
 <p style= "color: #4F2172">
   <br>
   <br> <samp><img src="https://media.giphy.com/media/BLLVLetSfovbdQ7Jif/giphy.gif" width="20">
