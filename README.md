@@ -1,4 +1,6 @@
-<img align="right" width="300" height="200"  src="https://media.giphy.com/media/lXiRzPb8C5JTJcfPq/giphy.gif">
+
+<img align="right" width="200" height="150"  src="https://media.giphy.com/media/mGbKvuoCNpcOWaTq9M/giphy.gif">
+
 <p style= "color: #4F2172">
   <br>
   <br> <samp><img src="https://media.giphy.com/media/BLLVLetSfovbdQ7Jif/giphy.gif" width="20">
@@ -6,10 +8,10 @@
   <br> My name is <strong>Carla</strong> and I'm a passionate frontend developer.
  <br>
  <br> About me
- <br> 💜 I’m currently working with <strong>React</strong>. 
-<br>  🌱 I’m currently learning <strong>Typescript and React Native</strong>.
-<br>  ✨ Pronouns <strong>She/Her</strong>.
-<br> 📫 How to reach me <strong>carlajoumier@gmail.com</strong>.
+ <br> 💜 I’m currently working with <strong>React</strong> 
+<br>  🌱 I’m currently learning <strong>Typescript, React Native and UX/UI designer</strong>
+<br>  ✨ Pronouns <strong>She/Her</strong>
+<br> 📫 How to reach me <strong>carlajoumier@gmail.com</strong>
 
 <br> 
 
