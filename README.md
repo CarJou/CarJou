@@ -5,7 +5,7 @@
    Hello world! 
   <br> My name is <strong>Carla</strong> and I'm a passionate frontend developer.
   <br>
-  My portfolio: https://car-jou.vercel.app/ ⚡
+  My portfolio: <a href="https://car-jou.vercel.app/" target="_blank">Here! ⚡</a> 
  <br>
  <br> About me
  <br> 💜 I’m currently working with <strong>React</strong> 
