@@ -4,6 +4,8 @@
   <br> <samp><img src="https://media.giphy.com/media/BLLVLetSfovbdQ7Jif/giphy.gif" width="20">
    Hello world! 
   <br> My name is <strong>Carla</strong> and I'm a passionate frontend developer.
+  <br>
+  My portfolio: https://car-jou.vercel.app/ ⚡
  <br>
  <br> About me
  <br> 💜 I’m currently working with <strong>React</strong> 
@@ -29,5 +31,5 @@
 <br><samp> Connect with me:
 <p>
     <a href="https://www.linkedin.com/in/carla-joumier"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:carlajoumier@gmail.com?subject=Hola%20Carla"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:carlajoumier@gmail.com?subject=Hi%20Carla"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
